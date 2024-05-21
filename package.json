@@ -10,6 +10,7 @@
     "packages/contracts",
     "packages/gateway",
     "packages/gateway-worker",
+    "packages/gateway-mongo",
     "packages/client"
   ],
   "private": true,
